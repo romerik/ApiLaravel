@@ -2,7 +2,13 @@
 An API in Laravel for a Pharmacy Application make with Laravel Passport
 
 
-Ressources that I use are : https://dev.to/kingsconsult/how-to-create-a-secure-crud-restful-api-in-laravel-8-and-7-using-laravel-passport-31fh    http://laravel.sillo.org/laravel-8/    https://laravel.com/docs/8.x/
+Ressources that I use are :
+
+https://dev.to/kingsconsult/how-to-create-a-secure-crud-restful-api-in-laravel-8-and-7-using-laravel-passport-31fh   
+
+http://laravel.sillo.org/laravel-8/   
+
+https://laravel.com/docs/8.x/
 
 
 Models are : 
